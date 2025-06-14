@@ -2,7 +2,7 @@
 
 Simple arduino based electronic cigarette
 
-In this project, I designed an Arduino nano based electronic cigarette PCB.
+In this project, I designed an Arduino nano based electronic cigarette PCB. I tried to inspire Eleaf iStick Pico.
 
 ![Schematic_esig_2025-06-15](https://github.com/user-attachments/assets/cbd8beba-cd6b-4129-928c-b21d1781047e)
 
