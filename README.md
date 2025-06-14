@@ -6,6 +6,6 @@ In this project, I designed an Arduino nano based electronic cigarette PCB.
 
 ![Schematic_esig_2025-06-15](https://github.com/user-attachments/assets/cbd8beba-cd6b-4129-928c-b21d1781047e)
 
-![1](https://github.com/user-attachments/assets/d7e5007b-b86e-498c-8c4e-7ab911ea817f)
+![1](https://github.com/user-attachments/assets/0020f0dd-254e-4bde-85f7-46dc040628ea)
 
-![2](https://github.com/user-attachments/assets/182d5187-ae91-4b62-8745-0feaf2207849)
+![2](https://github.com/user-attachments/assets/485fb5ae-5385-4413-a625-a7dae0a902f4)
